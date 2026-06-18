@@ -1,0 +1,5 @@
+#create a list of 5 number
+number=[20,60,70,50,10]
+#sum all elements
+total=sum(number)
+print("sum of all elements:",total)
